@@ -9,17 +9,17 @@ A complete e-commerce web application built with JSP, Java Servlets, JDBC, and M
 - **Server**: Apache Tomcat
 - **IDE**: Apache Netbeans
 
-## ✨ Features
+## Features
 ### Customer Features
-- ✅ User registration and login
-- ✅ Browse products by category
-- ✅ Add products to cart
-- ✅ Manage shopping cart (add, remove, clear)
-- ✅ Place orders with shipping information
-- ✅ View order history
-- ✅ Responsive design with Bootstrap
+- User registration and login
+- Browse products by category
+- Add products to cart
+- Manage shopping cart (add, remove, clear)
+- Place orders with shipping information
+- View order history
+- Responsive design with Bootstrap
 
-## 🗄️ Database Schema
+## Database Schema
 
 The application uses the following main tables:
 - `users` - Store user information and roles
