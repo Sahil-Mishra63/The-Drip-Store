@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/index.html</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web.xml</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/admin-dashboard.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/index.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/login.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/register.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/products.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/cart.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/checkout.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/order-success.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/order-history.jsp</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/dao/UserDAO.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/dao/CartDAO.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/dao/OrderDAO.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/model/User.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/model/Product.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/model/CartItem.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/model/Order.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/model/OrderItem.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/UserRegistrationServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/UserLoginServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/ProductServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/CartServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/OrderServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/AdminServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/database/ecommerce_schema.sql</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/DatabaseConnection/DatabaseConnection.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/src/java/com/ecommerce/dao/TestDBConnection.java</file>
+            <file>file:/C:/Users/sahil/OneDrive/Documents/NetBeansProjects/EcommerceWeb/web/product-detail.jsp</file>
+        </group>
+    </open-files>
+</project-private>
